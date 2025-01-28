@@ -25,8 +25,4 @@ X-Gorgon and X-Khronos &amp;amp; X-Ladon headers are required to call douyin api
 17. Download tiktok video without watermark
 
 
-
-**Contact for api :** [https://t.me/derekapi](https://t.me/derekapi)
-**Contact for api :** [https://join.skype.com/invite/uP6BbtXR3enZ](https://join.skype.com/invite/uP6BbtXR3enZ)
-## telegram: @derekapi
-## skype: live:.cid.b71feebe077d9294
+## Contact for api : [https://t.me/suomi1986](https://t.me/suomi1986)
