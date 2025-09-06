@@ -2,8 +2,6 @@
 抖音-记录美好生活 
 
 X-Gorgon and X-Khronos &amp;amp; X-Ladon headers are required to call douyin api.
-
-
 #douyin #douyinapi
 
 1. login to the user by email and username
